@@ -1,0 +1,13 @@
+package com.natwest.btp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WealthcdioApimanagementApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WealthcdioApimanagementApplication.class, args);
+	}
+
+}
